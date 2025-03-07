@@ -1,0 +1,94 @@
+{
+    "items": [
+        {
+            "Name": "Systems",
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "ImageColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "ImageType": 0
+        },
+        {
+            "Name": "Managers",
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "ImageColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "ImageType": 0
+        },
+        {
+            "Name": "Canvases",
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "ImageColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "ImageType": 0
+        },
+        {
+            "Name": "Setup",
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "ImageColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "ImageType": 0
+        },
+        {
+            "Name": "Environment",
+            "TextColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "FontSize": 12,
+            "FontStyle": 0,
+            "ImageColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "ImageType": 0
+        }
+    ]
+}
